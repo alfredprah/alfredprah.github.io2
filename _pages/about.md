@@ -1,13 +1,10 @@
 ---
 title: About Alfred
-description: I am a curious individual driven by Consumer Behavior.
+description: 
 subtitle: 
-featured_image: /images/social.jpg
----
 
-![](/images/demo/demo-landscape.jpg)
 
-## Features
+## I am a curious individual driven by Consumer Behavior.
 
 Simples is packed with powerful features to showcase your content:
 
