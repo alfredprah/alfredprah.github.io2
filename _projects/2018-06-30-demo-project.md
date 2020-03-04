@@ -1,12 +1,13 @@
 ---
-title: 'Bracketology'
-subtitle: 'Which college teams will make it to this year's NCAA tournament?'
-date: 2020-01-01 00:00:00
-featured_image: <img src="/images/basketball-885786_1920.jpg"
-excerpt: This personal project is to predict 'seeding' in College Basketball. Wikipedia defines a *seed* as "a competitor or team in a sport or other tournament who is given a preliminary ranking for the purposes of the draw. College teams are "planted" into the bracket in a manner that is typically intended so that the best do not meet until later in the competition".
+title: 'Demo Project'
+subtitle: 'This is a demo'
+date: 2018-06-30 00:00:00
+featured_image: '/images/demo/demo-square.jpg'
+excerpt: This page is a demo that shows everything you can do inside portfolio and blog posts. We've included everything you need to create engaging posts about your work, and show off your case studies in a beautiful way.
 ---
 
-<img src="/images/basketball-885786_1920.jpg"
+![](/images/demo/demo-landscape.jpg)
+
 
 ## Demo content
 
