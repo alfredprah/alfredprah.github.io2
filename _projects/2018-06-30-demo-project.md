@@ -1,9 +1,9 @@
 ---
-title: 'Demo Project'
-subtitle: 'This is a demo'
+title: 'Bracketology'
+subtitle: 'Which College Basketball teams will make it to the NCAA tournament this year?'
 date: 2018-06-30 00:00:00
 featured_image: '/images/demo/basketball-885786_1920.jpg'
-excerpt: This page is a demo that shows everything you can do inside portfolio and blog posts. We've included everything you need to create engaging posts about your work, and show off your case studies in a beautiful way.
+excerpt: The purpose of this project is to predict "Seeding" in College Basketball. Wikipedia defines a *seed* as "a team in a sport or other tournament who is given a preliminary ranking for the purposes of the draw. Teams are "planted" into the bracket in a manner that is typically intended so that the best do not meet until later in the competition.. 
 ---
 
 ![](/images/demo/demo-landscape.jpg)
