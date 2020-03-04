@@ -3,7 +3,7 @@ title: 'Bracketology'
 subtitle: 'Which College Basketball teams will make it to the NCAA tournament this year?'
 date: 2018-06-30 00:00:00
 featured_image: '/images/demo/basketball-885786_1920.jpg'
-excerpt: The purpose of this project is to predict which college teams will make it to the annual NCAA basketball tourname this year. 
+excerpt: The purpose of this project is to predict which college teams will make it to the annual NCAA men's basketball tournament this year. 
 ---
 
 ![](/images/demo/demo-landscape.jpg)
