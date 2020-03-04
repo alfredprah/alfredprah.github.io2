@@ -109,7 +109,7 @@ title: '2. Legal Document Classification'
 subtitle: 'Which college basketball teams will make it to the NCAA tournament this year?'
 date: 2018-06-30 00:00:00
 featured_image: '/images/demo/basketball-885786_1920.jpg'
-excerpt: The purpose of this project is to predict which college teams will make it to the annual NCAA men's basketball tournament this year. 
+excerpt: This project uses deep learning with legal case files to predict settlement and other legal outcomes. 
 ---
 
 ![](/images/demo/demo-landscape.jpg)
