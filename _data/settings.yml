@@ -1,10 +1,10 @@
 basic_settings:
-  site_title: Simples
-  site_tagline: A super simple blogging theme for Jekyll.
-  favicon_image: /images/favicon.png
+  site_title: Alfred Prah
+  site_tagline: A curious individual driven by Consumer Behavior.
+  favicon_image: /images/IMG_1074.jpg
 
 header_settings:
-  avatar_image: /images/avatar.jpg
+  avatar_image: /images/IMG_1074.jpg
   logo_image: 
   logo_width: 200
 
@@ -54,7 +54,7 @@ social_settings:
   soundcloud_url: ''
   spotify_url: ''
   bandcamp_url: ''
-  linkedin_url: ''
+  linkedin_url: 'https://www.linkedin.com/in/alfredprah/'
 
 color_settings:
   background_color: '#ffffff'
