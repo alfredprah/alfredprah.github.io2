@@ -1,5 +1,5 @@
 ---
-title: About Alfred
+title: 
 description: 
 subtitle: 
 
