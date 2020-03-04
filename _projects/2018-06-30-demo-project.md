@@ -1,5 +1,5 @@
 ---
-title: 'Bracketology'
+title: '1. Bracketology'
 subtitle: 'Which College Basketball teams will make it to the NCAA tournament this year?'
 date: 2018-06-30 00:00:00
 featured_image: '/images/demo/basketball-885786_1920.jpg'
