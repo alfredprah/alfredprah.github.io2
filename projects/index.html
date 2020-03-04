@@ -30,6 +30,10 @@ featured_image: /images/social.jpg
 		</article>
 
 		
+		{% endfor %}
+
+{% for project in site.projects reversed %}
+
 		<article class="listing-post">
 
 			<div class="listing-post__header">
@@ -48,8 +52,9 @@ featured_image: /images/social.jpg
 
 		</article>
 
-		{% endfor %}
-
+		
+		{% endfor %}		
+		
 	</div>
 
 </section>
