@@ -1,10 +1,10 @@
 ---
-title: 
-description: 
-subtitle: 
+<!-- title: --> 
+<!-- description: --> 
+<!-- subtitle: -->
 
 
-## I am a curious individual driven by Consumer Behavior.
+#### I am a curious individual driven by Consumer Behavior.
 
 Simples is packed with powerful features to showcase your content:
 
