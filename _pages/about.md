@@ -1,7 +1,7 @@
 ---
-title: About Simples
-description: Simples is a super simple blogging theme for Jekyll.
-subtitle: Simples is a super simple blogging theme for Jekyll.
+title: About Alfred
+description: I am a curious individual driven by Consumer Behavior.
+subtitle: 
 featured_image: /images/social.jpg
 ---
 
