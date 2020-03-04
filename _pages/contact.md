@@ -1,6 +1,6 @@
 ---
 title: Contact
-subtitle: Simples comes with a built-in contact form, that's free and easy to set up.
+subtitle: Hello! Please do not hesitate to get in touch.
 description: Simples is a super simple blogging theme for Jekyll.
 featured_image: /images/demo/demo-landscape.jpg
 ---
