@@ -4,7 +4,7 @@
 <!-- subtitle: -->
 
 
-<center> #### I am a curious individual driven by Consumer Behavior. </center>
+#### <center> I am a curious individual driven by Consumer Behavior. </center>
 
 As a Data Science Master’s student at Vanderbilt University, I have had an extensive range of experiences including selecting features, optimizing classifiers, mining data, expanding data by incorporating third-party sources, data exploration and processing, Natural Lanuguage Processing, Deep Learning and doing ad-hoc analyses. <br><br>
 
