@@ -11,8 +11,8 @@ excerpt: Coverage Probability is an important operating characteristic of method
 
 In this blog post, we explore a concept known as the “Coverage
 Probability”. Coverage probability is an important operating
-characteristic of methods for constructing interval estimates,
-particularly confidence intervals. To explore this concept, I will
+characteristic for constructing the interval estimates of statistical methods,
+particularly Confidence Intervals. To explore this concept, I will
 perform a simulation to calculate the coverage probability of the 95%
 confidence interval of the median when computed from through the Maximum
 Likelihood Estimation, MLE.
