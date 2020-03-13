@@ -1,7 +1,7 @@
 ---
 title: 'Central Limit Theorem'
 date: 2020-03-12 00:01:23
-featured_image: '/images/demo/demo-square.jpg'
+featured_image: '/images/distribution-159626_960_720.png'
 excerpt: This page is a demo that shows everything you can do inside portfolio and blog posts. We've included everything you need to create engaging posts about your work, and show off your case studies in a beautiful way.
 ---
 
