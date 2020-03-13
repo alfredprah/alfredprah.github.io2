@@ -7,8 +7,7 @@ excerpt: Coverage Probability is an important operating characteristic of method
 
 ![](/images/coverage-prob.webp)
 
-Introduction
-============
+## Introduction
 
 In this blog post, we explore a concept known as the “Coverage
 Probability”. Coverage probability is an important operating
@@ -33,9 +32,7 @@ confidence captures the population parameter 4. Repeat steps 1 - 3 many
 times. Estimate the coverage probability as the proportion of samples
 for which the confidence interval captured the population parameter.
 
-Generating Data
-===============
-
+## Generating Data
 First, using “rnorm”, let’s generate a sample from a Standard Normal
 Distribution of size N = 201.
 
@@ -49,8 +46,8 @@ generate_data <- function(parameters){
 }
 ```
 
-Using MLE to estimate the distribution
-======================================
+## Using MLE to estimate the distribution
+
 
 ``` r
 est.mle <- function(data) {
@@ -69,11 +66,8 @@ true.parameters %>% generate_data %>% est.mle
 We see that the the mean and standard deviation for the generated sample
 are about 0 and 1, respectively.
 
-Confidence Interval
-===================
-
-calculating the Confidence Interval for the Median
---------------------------------------------------
+## Confidence Interval:
+### calculating the Confidence Interval for the Median
 
 -   We now get to use the mean and standard deviations we estimated
     through the MLE to generate a sample that we will compute the median
@@ -95,9 +89,7 @@ boot.meds.ci <- function(parameters){
 }
 ```
 
-The True Median
-===============
-
+## The True Median
 The median of a Standard Normal Distribution is 0. A Confidence Interval
 will capture the median if the lower confidence limit is less than zero
 or the upper confidence limit is greater than zero. The chunk of code
@@ -110,9 +102,7 @@ capture_median <- function(ci){
 }
 ```
 
-Coverage Probability
-====================
-
+## Coverage Probability
 As mentioned earlier, the Coverage Probability is an important operating
 characteristic of methods for constructing interval estimates,
 particularly confidence intervals. Wikipedia defines it as the
@@ -126,9 +116,7 @@ Intervals in black capture the population parameter of interest; the
 ones in blue do not. In this instance, the coverage probability is \~
 49/50.
 
-Coverage Probability of the Median
-==================================
-
+## Coverage Probability of the Median
 Taking the 95% confidence interval calculated for 5000 samples, we can
 compute the Coverage Probability as the proportion of samples for which
 the Confidence Interval captured the true value of the Median:
