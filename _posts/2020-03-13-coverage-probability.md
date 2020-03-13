@@ -66,7 +66,7 @@ true.parameters %>% generate_data %>% est.mle
 We see that the the mean and standard deviation for the generated sample
 are about 0 and 1, respectively.
 
-### calculating the Confidence Interval for the Median
+### Calculating the Confidence Interval for the Median
 
 -   We now get to use the mean and standard deviations we estimated
     through the MLE to generate a sample that we will compute the median
@@ -101,7 +101,7 @@ capture_median <- function(ci){
 }
 ```
 
-## Coverage Probability
+### Coverage Probability
 As mentioned earlier, the Coverage Probability is an important operating
 characteristic of methods for constructing interval estimates,
 particularly confidence intervals. Wikipedia defines it as the
