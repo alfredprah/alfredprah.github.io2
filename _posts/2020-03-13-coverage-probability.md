@@ -1,11 +1,11 @@
 ---
 title: 'Coverage Probability'
 date: 2020-03-13 00:04:13
-featured_image: '/images/coverage-prob.webp'
+featured_image: '/images/percent-2542458_960_720.jpg'
 excerpt: Coverage Probability is an important operating characteristic of methods for constructing interval estimates (particularly confidence intervals).
 ---
 
-![](/images/coverage-prob.webp)
+![](/images/percent-2542458_960_720.jpg)
 
 ### Introduction
 
