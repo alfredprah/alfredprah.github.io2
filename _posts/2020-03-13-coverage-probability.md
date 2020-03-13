@@ -7,7 +7,7 @@ excerpt: Coverage Probability is an important operating characteristic of method
 
 ![](/images/coverage-prob.webp)
 
-## Introduction
+### Introduction
 
 In this blog post, we explore a concept known as the “Coverage
 Probability”. Coverage probability is an important operating
@@ -32,7 +32,7 @@ confidence captures the population parameter 4. Repeat steps 1 - 3 many
 times. Estimate the coverage probability as the proportion of samples
 for which the confidence interval captured the population parameter.
 
-## Generating Data
+### Generating Data
 First, using “rnorm”, let’s generate a sample from a Standard Normal
 Distribution of size N = 201.
 
@@ -46,7 +46,7 @@ generate_data <- function(parameters){
 }
 ```
 
-## Using MLE to estimate the distribution
+### Using MLE to estimate the distribution
 
 
 ``` r
@@ -88,7 +88,7 @@ boot.meds.ci <- function(parameters){
 }
 ```
 
-## The True Median
+### The True Median
 The median of a Standard Normal Distribution is 0. A Confidence Interval
 will capture the median if the lower confidence limit is less than zero
 or the upper confidence limit is greater than zero. The chunk of code
@@ -115,7 +115,7 @@ Intervals in black capture the population parameter of interest; the
 ones in blue do not. In this instance, the coverage probability is \~
 49/50.
 
-## Coverage Probability of the Median
+### Coverage Probability of the Median
 Taking the 95% confidence interval calculated for 5000 samples, we can
 compute the Coverage Probability as the proportion of samples for which
 the Confidence Interval captured the true value of the Median:
