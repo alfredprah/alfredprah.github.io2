@@ -66,7 +66,6 @@ true.parameters %>% generate_data %>% est.mle
 We see that the the mean and standard deviation for the generated sample
 are about 0 and 1, respectively.
 
-## Confidence Interval:
 ### calculating the Confidence Interval for the Median
 
 -   We now get to use the mean and standard deviations we estimated
