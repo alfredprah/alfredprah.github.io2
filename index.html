@@ -19,7 +19,7 @@ featured_image: /images/IMG_1074.jpg
 			</div>
 
 			{% if post.featured_image %}
-			<a href="{{ post.url | relative_url }}" class="listing-post__image" style="background-image: url({{ post.featured_image | relative_url }});"></a>
+			<a href="{{ post.url | relative_url }}" class="listing-post__image" style="background-image: url({{ post.featured_image | relative_url }})width:500px;height:600px;"></a>
 			{% endif %}
 
 			<div class="listing-post__content">
