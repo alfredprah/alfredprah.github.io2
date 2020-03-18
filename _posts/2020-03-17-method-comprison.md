@@ -1,7 +1,7 @@
 ---
 title: 'Method Comparison'
 date: 2020-03-17 00:19:50
-featured_image: '/comparison.jpg'
+featured_image: 'images/comparison.jpg'
 excerpt: In general, an X% confidence interval should capture the population parameter of interest in X% of samples. In this blog post, I perform a 2 × 4 × 2 factorial simulation study to compare.. 
 ---
 
