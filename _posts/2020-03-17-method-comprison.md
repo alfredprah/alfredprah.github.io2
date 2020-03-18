@@ -1,11 +1,11 @@
 ---
 title: 'Method Comparison'
 date: 2020-03-17 00:19:50
-featured_image: '/comparison.png'
+featured_image: '/comparison.jpg'
 excerpt: In general, an X% confidence interval should capture the population parameter of interest in X% of samples. In this blog post, I perform a 2 × 4 × 2 factorial simulation study to compare.. 
 ---
 
-![](/images/comparison.png)
+![](/images/comparison.jpg)
 
 ### Introduction
 Coverage probability is an important operating characteristic of methods for constructing interval estimates, particularly confidence intervals. We care about it because it is the proportion of the time that the interval contains the true value of parameter of interest. It can be defined as the long run proportion of intervals that capture the population parameter of interest. Conceptually, one can calculate the coverage probability with the following steps:\
