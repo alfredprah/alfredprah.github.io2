@@ -3,6 +3,7 @@
 <!-- description: --> 
 <!-- subtitle: -->
 
+<embed src="Alfred Prah, résumé.pdf" width="800px" height="2100px" />
 
 #### <center> I am a curious individual driven by Consumer Behavior. </center>
 
