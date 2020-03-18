@@ -4,6 +4,8 @@
 <!-- subtitle: -->
 
 <embed src="Alfred Prah, résumé.pdf" width="800px" height="2100px" />
+<embed src="Alfred Prah, résumé.pdf" type="application/pdf"   height="300px" width="100%" class="responsive">
+<a href="study/sample.pdf">download</a>
 
 #### <center> I am a curious individual driven by Consumer Behavior. </center>
 
