@@ -3,10 +3,9 @@
 <!-- description: --> 
 <!-- subtitle: -->
 
-<embed src="Alfred Prah, résumé.pdf" width="800px" height="2100px" />
 <embed src="Alfred Prah, résumé.pdf" type="application/pdf"   height="300px" width="100%" class="responsive">
-<a href="study/sample.pdf">download</a>
-
+<a href="study/sample.pdf">download résumé</a>
+<br>
 #### <center> I am a curious individual driven by Consumer Behavior. </center>
 
 As a Data Science Master’s student at Vanderbilt University, I have had an extensive range of experiences including selecting features, optimizing classifiers, mining data, expanding data by incorporating third-party sources, data exploration and processing, Natural Language Processing, Deep Learning and doing ad-hoc analyses. <br><br>
