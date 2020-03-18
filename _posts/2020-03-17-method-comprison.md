@@ -167,6 +167,10 @@ simsettings
 write.csv(simsettings,"simulation_results.csv")
 ```
 
+<div class="gallery" data-columns="1">
+	<img src="/images/comparison_output.png">
+</div>
+
 ### Analysis/Conclusion
 From the table above, we can observe the following:
 - For the Normal distribution, the Coverage Probability of the Min is very small if it is estimated with the method of moments with gamma.  
