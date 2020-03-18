@@ -38,7 +38,7 @@ Other settings in the experiment that will not change are:
 
 ### Generating Data
 The true, underlying distribution is either the Standard Normal distribution with mean = 0 and standard edeviation = 1 or a Gamma distribution with shape = 1.4 and scale = 3.
-```{r}
+```r
 generate_data <- function(N,dist,sh,sc){
   if(dist=="norm"){
     return(rnorm(N)+4)
@@ -53,7 +53,8 @@ As mentioned earlier, there are 4 models we will be investigating in this experi
 method of moments with normal, method of moments with gamma, kernel density estimation and boostrap.
 
 To calculate the parameter of interest for each of these models, we will generate sample that have the same sample size as the data in the last step, and then calculte the parameter of interest(min/median). We can repeat this step several times but for the purposes of this blog post, I'll limit the replicates to 5000. Now let's define the 90% confidence interval of the parameter of interest as the middle 90% of the sampling distribution of the parameter of interest. The lower confidence limit for a parameter of interest is the 0.05 quantile. The upper confidence limit for a median is the 0.95 quantile.
-```{r}
+
+```r
 estimate.ci <- function(data,mod,par.int,R=5000,smoo=0.3){
   N<- length(data)
   sum.measure <- get(par.int)
@@ -108,8 +109,7 @@ estimate.ci <- function(data,mod,par.int,R=5000,smoo=0.3){
     sim.data <- array(sample(data,N*R,replace=TRUE),dim=c(N,R))
     samp.dist<-apply(sim.data,2,sum.measure)
     return(quantile(samp.dist,c(0.05,0.95)))
-  }
-  
+  }  
 }
 ```
 
@@ -129,7 +129,7 @@ For the purposes of this blog post, I repeat this 1000 times. The values obtaine
 
 The coverage probabilities for our various combinations are shown in the table below:
 
-```{r}
+```r
 N <- 201
 shape.set <- 1.4
 scale.set<-3
@@ -163,7 +163,6 @@ for (k in 1:nrow(simsettings)){
   simsettings[k,4] <- mean(cover)
 
 }
-
 simsettings
 write.csv(simsettings,"simulation_results.csv")
 ```
