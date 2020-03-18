@@ -115,7 +115,7 @@ estimate.ci <- function(data,mod,par.int,R=5000,smoo=0.3){
 
 ### Capturing the Parameter
 The confidence interval will capture the true paramter if the lower confidence limit is less than the true parameter, and the upper confidence limit is greater than the true parameter. To execute the "parameter-capturing" process, let's create a function that tests whether the confidence interval captured the true parameter or not. The function will return a 1 if the confidence interval captured the true parameter or a 0 otherwise.
-```{r}
+```r
 capture_par <-function(ci,true.par){
   1*(ci[1]<true.par & true.par<ci[2])
 }
