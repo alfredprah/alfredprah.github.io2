@@ -3,8 +3,8 @@
 <!-- description: --> 
 <!-- subtitle: -->
 
-<embed src="Alfred Prah, résumé.pdf" type="application/pdf"   height="300px" width="100%" class="responsive">
-<a href="study/sample.pdf">download résumé</a>
+<embed src="Alfred Prah, résumé.pdf" type="application/pdf" height="300px" width="100%" class="responsive">
+<a href="Alfred Prah, résumé.pdf">download résumé</a>
 
 <br>
 #### <center> I am a curious individual driven by Consumer Behavior. </center>
