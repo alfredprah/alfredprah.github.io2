@@ -9,10 +9,6 @@ excerpt: The purpose of this project is to predict which college teams will make
 ![](/images/demo/demo-landscape.jpg)
 
 
-<<r setup, include=FALSE>>=
-knitr::opts_chunk$set(echo=FALSE, engine='whathaveyou', ...)
-@
-
 #### This file, 50-master, is a combination of all 4 notebooks: 10-import, 20-Exploratory_Data_Analysis, 30-Feature_Engineering, 40-Modeling
 
 ### 10-import
