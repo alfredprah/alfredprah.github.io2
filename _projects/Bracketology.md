@@ -9,7 +9,9 @@ excerpt: The purpose of this project is to predict which college teams will make
 ![](/images/demo/demo-landscape.jpg)
 
 
-#### This file, 50-master, is a combination of all 4 notebooks: 10-import, 20-Exploratory_Data_Analysis, 30-Feature_Engineering, 40-Modeling
+#### This file, 50-master, is a combination of 4 notebooks: 10-import, 20-Exploratory_Data_Analysis, 30-Feature_Engineering, 40-Modeling (from my Github)
+
+#### The NCAA Division I Men's Basketball Tournament, also known and branded as NCAA March Madness, is a single-elimination tournament played each spring in the United States, currently featuring 68 college basketball teams from the Division I level of the National Collegiate Athletic Association (NCAA), to determine the national championship. The tournament was created in 1939 by the National Association of Basketball Coaches, and was the idea of Ohio State coach Harold Olsen. Played mostly during March, it has become one of the most famous annual sporting events in the United States. In this project, I walk you through the methodology I employed to build a predictive model with a 94% accuracy score (AUC). 
 
 ### 10-import
 
