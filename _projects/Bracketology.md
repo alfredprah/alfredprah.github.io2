@@ -6,7 +6,7 @@ featured_image: '/images/demo/basketball-885786_1920.jpg'
 excerpt: The purpose of this project is to predict which college teams will make it to the annual NCAA men's basketball tournament this year. 
 ---
 
-![](/images/demo/demo-landscape.jpg)
+![](/images/basketball-college.jpg)
 
 
 #### This file, 50-master, is a combination of 4 notebooks: 10-import, 20-Exploratory_Data_Analysis, 30-Feature_Engineering, 40-Modeling (from my Github)
