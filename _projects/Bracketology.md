@@ -1859,6 +1859,9 @@ print(f'\nAUC score: {logreg_auc_score:.4f}')
     AUC score: 0.9444
 
 
-##### This is actually impressive and it makes me wonder if I missed anything. The fact that I didn't do much to arrive at this level of accuracy makes me wonder why "Bracketology" is such an unconquered beast in the sports world. But I guess it gets more complicated when people try to predict every single game's outcome. I plan on trying a few other models soon. 
+##### This is actually impressive and it makes me wonder if I missed anything. The fact that I didn't do much to arrive at this level of accuracy makes me wonder why "Bracketology" is such an unconquered beast in the sports world. But I guess it gets more complicated when people try to predict every single game's outcome. I plan on trying a few other models soon. Future steps to be taken for a more robust model:
+- separate a particular year for the test data to gauge how the model performs on a particular year
+- calculate F-1 score since I don't consider either one of the Sensitivity/Precision of the model to be more important
+- Use cross-validation to attempt to improve model performace
 <br>
 ##### Link to Github repo: <a href="https://github.com/alfredprah/college-basketball" class="button button--large">Bracketology</a>
