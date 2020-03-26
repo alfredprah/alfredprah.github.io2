@@ -6,7 +6,7 @@ featured_image: '/images/demo/3d_judges_gavel-1.jpg'
 excerpt: This project uses deep learning with legal case files to predict settlement amount and other legal outcomes.
 ---
 
-I am currently using a hybrid Deep Learning Model: Facebook's [RoBerta](https://github.com/pytorch/fairseq/tree/master/examples/roberta) and [fast.ai's modules](https://www.fast.ai/about/) The content of this project is currently
+I am currently using a hybrid Deep Learning Model: Facebook's [RoBerta](https://github.com/pytorch/fairseq/tree/master/examples/roberta) and [fast.ai modules](https://www.fast.ai/about/) The content of this project is currently
 
 
 ![](/images/confidential.png)
