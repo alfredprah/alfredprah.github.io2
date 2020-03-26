@@ -7,10 +7,12 @@ excerpt: This project uses deep learning with legal case files to predict settle
 ---
 
 I am currently using a hybrid Deep Learning Model: Facebook's [RoBerta](https://github.com/pytorch/fairseq/tree/master/examples/roberta) and [fast.ai's modules](https://www.fast.ai/about/) The content of this project is currently
+
+
 ![](/images/confidential.png)
 
 
-but I am happy to discuss the "general" design, procedure and findings over a phone call or virtual coffee chat (Iced Caramel macchiato :))
+but I am happy to discuss the "general" design, procedure and findings over a phone call or virtual coffee chat :)
 
 <br> <br> <br> <br>
 #### the content below is simply demo content to help me play around with the other pages of my website but feel free to check it out :)
