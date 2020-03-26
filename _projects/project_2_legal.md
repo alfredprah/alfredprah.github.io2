@@ -14,24 +14,6 @@ I am currently using a hybrid Deep Learning Model: Facebook's [RoBerta](https://
 
 but I am happy to discuss the "general" design, procedure and findings over a phone call or virtual coffee chat :)
 
-<br> <br> <br> <br>
-
-
-<br> <br> <br> <br> <br> <br> <br> 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <!-- 
 This page is a demo that shows everything you can do inside portfolio and blog posts.
