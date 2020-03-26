@@ -3,13 +3,32 @@ title: '2. Legal Document Classification'
 subtitle: '3,000 class-action lawsuits, 18,000 documents, 55 target outcomes'
 date: 2018-06-30 00:00:00
 featured_image: '/images/demo/3d_judges_gavel-1.jpg'
-excerpt: This project uses deep learning with legal case files to predict settlement and other legal outcomes.
+excerpt: This project uses deep learning with legal case files to predict settlement amount and other legal outcomes.
 ---
 
-![](/images/demo/demo-landscape.jpg)
+## The content of this project is currently
+![](/images/confidential.png)
 
 
-## Demo content
+## but I am happy to discuss the "general" design, procedure and findings of the project over a phone call or coffee (Iced Caramel macchiato :))
+
+### the content below is simply demo content to help me play around with the other pages of my website but feel free to check it out :)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 This page is a demo that shows everything you can do inside portfolio and blog posts.
 
