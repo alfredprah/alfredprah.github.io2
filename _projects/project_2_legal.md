@@ -15,7 +15,7 @@ I am currently using a hybrid Deep Learning Model: Facebook's [RoBerta](https://
 but I am happy to discuss the "general" design, procedure and findings over a phone call or virtual coffee chat :)
 
 <br> <br> <br> <br>
-#### the content below is simply demo content to help me play around with the other pages of my website but feel free to check it out :)
+
 
 <br> <br> <br> <br> <br> <br> <br> 
 
@@ -33,7 +33,8 @@ but I am happy to discuss the "general" design, procedure and findings over a ph
 
 
 
-<!-- This page is a demo that shows everything you can do inside portfolio and blog posts.
+<!-- 
+This page is a demo that shows everything you can do inside portfolio and blog posts.
 
 We've included everything you need to create engaging posts about your work, and show off your case studies in a beautiful way.
 
