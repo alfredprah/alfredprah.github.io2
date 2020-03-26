@@ -10,7 +10,7 @@ excerpt: This project uses deep learning with legal case files to predict settle
 ![](/images/confidential.png)
 
 
-### but I am happy to discuss the "general" design, procedure and findings of the project over a phone call or coffee (Iced Caramel macchiato :))
+### but I am happy to discuss the "general" design, procedure and findings of the project over a phone call or virtual coffee chat (Iced Caramel macchiato :))
 
 #### the content below is simply demo content to help me play around with the other pages of my website but feel free to check it out :)
 
