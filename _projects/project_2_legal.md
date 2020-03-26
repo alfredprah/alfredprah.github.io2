@@ -33,8 +33,7 @@ but I am happy to discuss the "general" design, procedure and findings over a ph
 
 
 
-
-This page is a demo that shows everything you can do inside portfolio and blog posts.
+<!-- This page is a demo that shows everything you can do inside portfolio and blog posts.
 
 We've included everything you need to create engaging posts about your work, and show off your case studies in a beautiful way.
 
@@ -128,3 +127,4 @@ We've packed this theme with powerful features to show off your work. Why not pu
 <a href="https://jekyllthemes.io/theme/simples-blog-jekyll-theme" class="button button--large">Get This Theme</a>
 
 <a href="https://jekyllthemes.io/theme/simples-blog-jekyll-theme" class="button button--large">Get This Theme</a>
+-->
