@@ -5,7 +5,7 @@
 
 #### <center> I am a curious individual driven by Consumer Behavior. </center> <br>
 
-<embed src="Alfred Prah, résumé.pdf#toolbar=0&navpanes=0&scrollbar=0"  width="100%" height="1000px" /> <br>
+<embed src="Alfred Prah, resume.pdf#toolbar=0&navpanes=0&scrollbar=0"  width="100%" height="1000px" /> <br>
 
 As a Data Science Master’s student at Vanderbilt University, I have had an extensive range of experiences including selecting features, optimizing classifiers, mining data, expanding data by incorporating third-party sources, data exploration and processing, Natural Language Processing, Deep Learning and doing ad-hoc analyses. <br><br>
 
