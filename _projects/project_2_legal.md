@@ -12,7 +12,7 @@ I am currently using a hybrid Deep Learning Model: Facebook's [RoBerta](https://
 ![](/images/confidential.png)
 
 
-but I am happy to discuss the "general" design, procedure and findings over a phone call or virtual coffee chat :)
+but I am happy to discuss the *general* design, procedure and findings over a phone call or virtual coffee chat :)
 
 
 <!-- 
