@@ -14,4 +14,7 @@ the business plan and Investor Proposal Letters of an online clothing business I
 
 I would like to thank you for taking the time to learn about my background and experiences. I am always happy to hop on a call to discuss anything Data Science related. You can reach me through my email: alfred.j.prah@vanderbilt.edu
 
-
+##### Certificates/Accomplishments: 
+<li>
+    <a href="https://www.coursera.org/account/accomplishments/certificate/C3W8QEQPH7VY"><strong>Structuring Machine Learning Projects</strong></a>(Deeplearning.ai)
+  </li>
