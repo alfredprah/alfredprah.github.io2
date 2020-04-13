@@ -16,5 +16,5 @@ I would like to thank you for taking the time to learn about my background and e
 
 ##### Certificates/Accomplishments: 
 <li>
-    <a href="https://www.coursera.org/account/accomplishments/certificate/C3W8QEQPH7VY"><strong>Structuring Machine Learning Projects</strong></a>(Deeplearning.ai)
+    <a align="center" href="https://www.coursera.org/account/accomplishments/certificate/C3W8QEQPH7VY"><strong>Structuring Machine Learning Projects</strong></a>(Deeplearning.ai)
   </li>
