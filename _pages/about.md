@@ -13,23 +13,3 @@ As a pre-requisite for enrollment in the Data Science Master’s program at Vand
 the business plan and Investor Proposal Letters of an online clothing business I started in 2014.<br><br>
 
 I would like to thank you for taking the time to learn about my background and experiences. I am always happy to hop on a call to discuss anything Data Science related. You can reach me through my email: alfred.j.prah@vanderbilt.edu
-
-Certificates/Accomplishments: 
-
-<style>
-.myDivElement{
-    text-align:center;
-}
-.myDivElement ul li{
-   display:inline;
-
- }
-</style>
-<div class="myDivElement">
-<ul>
-    <li><a href="https://www.coursera.org/account/accomplishments/certificate/C3W8QEQPH7VY"><strong>Structuring Machine Learning Projects</strong></a>(Deeplearning.ai)</li>
-    <li>About</li>
-    <li>Gallery</li>
-    <li>Contact</li>
-</ul>
-</div>
