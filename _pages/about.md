@@ -10,7 +10,7 @@
 As a Data Science Intern at two separate companies, I have had an extensive range of experiences including implementing and deploying machine learning models, managing the lifecycle of machine learning pipelines, overseeing project workflows, expanding data by incorporating third-party sources, and presenting findings and insights to teams of people with both technical and non-technical backgrounds. <br><br>
 
 In one of my most recent positions as a Data Science Research Assistant at Vanderbilt’s Research on Conflict and Collective Action (ROCCA) Lab, I worked with faculty members and students to determine which data pipelines best meet the needs of current projects, given the nature of the available data and when applicable, the limitations of the resources at our disposal. Some of my more recent interactions with the team revolved around recommendations for creating and deploying interactive, client-facing, machine learning applications that are adaptive and stand the test of time. 
-![image](https://user-images.githubusercontent.com/31881173/122286750-cf76bd80-ceb5-11eb-8e61-a4f743d25023.png)<br><br>
+<br><br>
 
 It is worth mentioning that my Data Science expertise spans many years: During my undergraduate education, I was able to apply both my domain knowledge and skillset during an Independent Marketing Research on *Psychographics and Emotional Motivators in relation to Consumer Behavior*, and used the findings of the research to revise the business plan and Investor Proposal Letters of an online clothing business I started in 2014.<br><br>
 
