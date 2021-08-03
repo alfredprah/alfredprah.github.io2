@@ -52,12 +52,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
 
-paginate_multiple:
-  - paginate: 5
-    paginate_path: '/page:num/'
-    sub_dir: '/posts'
-  - paginate: 5
-    paginate_path: '/projects/page:num/'
-    sub_dir: '/projects'
+paginate: 6
+paginate_path: "/posts/page:num/"
 
   
