@@ -57,7 +57,7 @@ paginate_multiple:
     paginate_path: '/page:num/'
     sub_dir: '/posts'
   - paginate: 5
-    paginate_path: '/de/page:num/'
+    paginate_path: '/projects/page:num/'
     sub_dir: '/projects'
 
   
